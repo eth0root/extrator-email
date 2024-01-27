@@ -8,7 +8,7 @@ def print_banner():
     print("| Sobre: EXTRATOR DE E-MAIL                        |")
     print("|                                                  |")
     print("| Linkedin: linkedin.com/in/marciosecurity         |")
-    print("| Tekegran: @eth0root                              |")
+    print("| Telegram: @eth0root                              |")
     print("+==================================================+")
     print()
 
