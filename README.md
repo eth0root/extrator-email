@@ -3,7 +3,7 @@ Este script em Python foi desenvolvido para extrair e-mails únicos de arquivos 
 
 ###  Funcionalidades
 
-****1. Extração de E-mails:****  Extração de E-mails: 1. Extração de E-mails: O script percorre recursivamente um diretório especificado, procura por arquivos de texto (.txt) e extrai e-mails de cada arquivo.
+****1. Extração de E-mails:****  O script percorre recursivamente um diretório especificado, procura por arquivos de texto (.txt) e extrai e-mails de cada arquivo.
 
 ****2. Remoção de Duplicatas:**** Os e-mails extraídos são armazenados em um conjunto (set), garantindo que apenas e-mails únicos sejam mantidos.
 
